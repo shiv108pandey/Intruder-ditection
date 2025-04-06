@@ -104,5 +104,5 @@ Send alerts via WhatsApp/Telegram in addition to email.
  Developed By
 Shiv Swaroop Pandey
 Email: shivswarooppandey68@gmail.com
-GitHub: github.com/shivswarooppandey (Add your link)
+GitHub: github.com/shivswarooppandey (https://github.com/shiv108pandey)
 
